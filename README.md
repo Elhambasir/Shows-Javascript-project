@@ -93,7 +93,7 @@ In order to run this project you need:
 -Commands: npm install
 
 ### Setup
-* git clone https://github.com/AbbasSarwar/Shows.git
+* git clone https://github.com/zunairkhan811/Shows-Javascript-project.git
 * cd Shows
 * git checkout Development
 
@@ -122,6 +122,7 @@ In order to run this project you need:
 👤 **Author2**
 - GitHub: [@zunairkhan811](https://github.com/zunairkhan811)
 - LinkedIn: [zunairkhan811](https://www.linkedin.com/in/zunairkhan811/)
+- Twitter: [@zunairkhan811](https://twitter.com/zunairkhan811)
 
 ####Documentation 
 - [Video]: [Link](https://drive.google.com/file/d/11_12tOF8K6XA1ZLIavmJ3ApxGrO5AxlF/view)
