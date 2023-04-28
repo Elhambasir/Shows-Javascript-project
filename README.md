@@ -29,10 +29,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+# [Important-Note!!]  
+This Repository is the fork of the original one. My contributions and commits are present in the original Repository. [Click Here](https://github.com/AbbasSarwar/Shows.git) to see Original Repository.
 # 📖 [AZ-Shows] <a name="about-project"></a>
 
-> Hello , This is a Leaderboard application.
-**[AZ-Shows]** is a simple where you can get the shows list and you can like and comment on the favourite one.
+> Hello , This is a AZ-Shows Javascript Project.
+**[AZ-Shows]** is a Pair Programming Project in which two APIs has been used where one API has been used for fetching data like pictures, ratings and names of shows and second API has been used for storing and showing likes and comments.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
