@@ -74,7 +74,7 @@ This Repository is the fork of the original one. My contributions and commits ar
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Link](https://abbassarwar.github.io/Shows/src/index.html)
+- [Link](https://zunairkhan811.github.io/Shows-Javascript-project/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
